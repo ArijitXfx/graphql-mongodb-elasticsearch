@@ -1,0 +1,4 @@
+com\tricon\service\ProductService.class
+com\tricon\bean\Product.class
+com\tricon\ProductApplication.class
+com\tricon\repository\ProductRepository.class

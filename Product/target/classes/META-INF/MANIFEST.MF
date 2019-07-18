@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: product-ms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arijit.basu
+Implementation-Vendor-Id: com.tricon
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/product
+Created-By: Maven Integration for Eclipse
+
